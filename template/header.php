@@ -1,1 +1,1 @@
-<h2>This is HEADER</h2>
+<h2>Header</h2>

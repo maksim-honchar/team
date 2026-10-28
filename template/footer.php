@@ -1,1 +1,1 @@
-<h2>This is FOOTER</h2>
+<h2>Footer</h2>
